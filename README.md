@@ -1,1 +1,2 @@
-Daily works
+My daily practice in C Programming.
+
